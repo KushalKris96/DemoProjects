@@ -9,5 +9,7 @@ public class DemoApp {
 	String name="sachin";
 	int count = name.toUpperCase().length();
 	System.out.println("The length of the string is : "+count);
+	System.out.println("Hello");
+	System.out.println("Kushal....");
 }
 }
