@@ -30,6 +30,7 @@ public class MainClass {
 	        
 	        Parent p2 = new Child2();
 	        ((Child2)p2).eat();   //DownCasting--to call specialized method of child
+	        System.out.println("Hello");
    }
 }
 
