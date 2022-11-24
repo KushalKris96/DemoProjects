@@ -26,7 +26,7 @@ public class Student {
 		System.out.println();
 		System.out.println("Course Details ::::::::: ");
 		for (Course courses : course) {
-			System.out.println("Course ID ::: "+courses.cid);
+			System.out.println("Course ID  ::: "+courses.cid);
 			System.out.println("Course Name ::: "+courses.cname);
 			System.out.println("Course Cost ::: "+courses.ccost);
 			System.out.println();
